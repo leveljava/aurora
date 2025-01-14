@@ -1,5 +1,7 @@
 # Aurora---前后端分离博客
 
+### 轻量版后端: https://github.com/zhouyqxy/aurora_Lite
+
 ## 前言
 
 - 开源不易，希望大家star支持一下
@@ -48,6 +50,18 @@
 - [ ] 前台代码优化
 - [ ] 后台vue3重构
 - [ ] 后端提供轻量化选择
+
+## 快速开始
+
+一键安装
+
+执行如下命令一键安装 Aurora 博客：
+
+```shell
+curl -sSL https://kangxianghui.top/api/Util/OnlineView/aurora_shell/aurora_install.sh -o aurora_install.sh && sh aurora_install.sh
+```
+
+此命令适用于：CentOS 操作系统
 
 ## 部署
 
